@@ -1,10 +1,9 @@
-#Customer Shopping Behavior Analysis
-
-#Overview
+# Customer Shopping Behavior Analysis
+# Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases. The goal is to identify patterns in spending, product preferences, discount usage, and subscription behavior to support business decision-making.
 
-#Dataset
+# Dataset
 
 Records: 3,900
 
@@ -20,7 +19,7 @@ Shopping behavior (discounts, ratings, shipping type)
 
 Missing values in review ratings were handled during preprocessing.
 
-#Tools Used
+# Tools Used
 
 Python – Data cleaning and exploratory analysis
 
@@ -28,7 +27,7 @@ PostgreSQL – SQL-based business analysis
 
 Power BI – Interactive dashboard
 
-#What Was Done
+# What Was Done
 
 Cleaned and prepared data using Python
 
@@ -40,7 +39,7 @@ Answered business questions using SQL (revenue trends, customer segments, produc
 
 Built a Power BI dashboard to visualize insights
 
-#Key Insights
+# Key Insights
 
 Subscribers generally spend more than non-subscribers
 
@@ -50,6 +49,11 @@ Loyal customers contribute a large share of revenue
 
 Express shipping users tend to have higher purchase amounts
 
-#Outcome
+# Outcome
 
 This project demonstrates an end-to-end data analysis workflow using Python, SQL, and Power BI, focused on real business use cases.
+
+
+
+
+
